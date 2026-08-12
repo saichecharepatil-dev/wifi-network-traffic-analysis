@@ -1,0 +1,52 @@
+Day,Time,Location,Users,Device_Type,Duration_Minutes,Traffic
+Mon,Morning,Library,120,Mixed,60,High
+Mon,Afternoon,Library,95,Laptop,45,Medium
+Mon,Evening,Library,60,Mobile,30,Medium
+Mon,Morning,CS,140,Laptop,70,High
+Mon,Afternoon,CS,110,Mixed,50,High
+Mon,Evening,CS,75,Mobile,35,Medium
+Mon,Morning,Prism Forum,90,Mixed,40,Medium
+Mon,Afternoon,Prism Forum,130,Mobile,65,High
+Mon,Evening,Prism Forum,55,Laptop,25,Low
+Tue,Morning,Blue Seminar,40,Laptop,25,Low
+Tue,Afternoon,Blue Seminar,55,Mixed,30,Low
+Tue,Evening,Blue Seminar,35,Mobile,15,Low
+Tue,Morning,ENTC,80,Laptop,35,Medium
+Tue,Afternoon,ENTC,115,Mixed,60,High
+Tue,Evening,ENTC,45,Mobile,20,Low
+Tue,Morning,Library,125,Mixed,65,High
+Tue,Afternoon,Library,90,Laptop,40,Medium
+Tue,Evening,Library,50,Mobile,25,Low
+Wed,Morning,CS,150,Laptop,80,High
+Wed,Afternoon,CS,120,Mixed,55,High
+Wed,Evening,CS,70,Mobile,35,Medium
+Wed,Morning,Prism Forum,85,Mixed,40,Medium
+Wed,Afternoon,Prism Forum,135,Mobile,70,High
+Wed,Evening,Prism Forum,40,Laptop,20,Low
+Wed,Morning,Blue Seminar,45,Laptop,20,Low
+Wed,Afternoon,Blue Seminar,50,Mixed,25,Low
+Wed,Evening,Blue Seminar,30,Mobile,10,Low
+Thu,Morning,ENTC,95,Laptop,45,Medium
+Thu,Afternoon,ENTC,125,Mixed,65,High
+Thu,Evening,ENTC,55,Mobile,25,Low
+Thu,Morning,Library,130,Mixed,70,High
+Thu,Afternoon,Library,100,Laptop,45,Medium
+Thu,Evening,Library,65,Mobile,30,Medium
+Thu,Morning,CS,145,Laptop,75,High
+Thu,Afternoon,CS,115,Mixed,55,High
+Thu,Evening,CS,80,Mobile,35,Medium
+Fri,Morning,Prism Forum,100,Mixed,50,Medium
+Fri,Afternoon,Prism Forum,140,Mobile,75,High
+Fri,Evening,Prism Forum,50,Laptop,20,Low
+Fri,Morning,Blue Seminar,40,Laptop,20,Low
+Fri,Afternoon,Blue Seminar,55,Mixed,25,Low
+Fri,Evening,Blue Seminar,25,Mobile,10,Low
+Sat,Morning,ENTC,75,Laptop,35,Medium
+Sat,Afternoon,ENTC,95,Mixed,45,Medium
+Sat,Evening,ENTC,35,Mobile,15,Low
+Sat,Morning,Library,90,Mixed,40,Medium
+Sat,Afternoon,Library,105,Laptop,50,Medium
+Sat,Evening,Library,45,Mobile,20,Low
+Sun,Morning,CS,60,Laptop,25,Low
+Sun,Afternoon,CS,80,Mixed,35,Medium
+Sun,Evening,CS,30,Mobile,15,Low
