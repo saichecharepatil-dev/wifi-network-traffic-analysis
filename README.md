@@ -19,7 +19,7 @@ The project is developed using Python and provides a simple interactive interfac
 
 The project uses a CSV dataset containing WiFi network traffic information.
 
-**Dataset:** `wifi_traffic.csv`
+**Dataset:** `wifi_data.csv`
 
 ## Project Files
 
