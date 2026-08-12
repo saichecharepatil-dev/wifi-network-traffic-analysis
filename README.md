@@ -25,7 +25,7 @@ The project uses a CSV dataset containing WiFi network traffic information.
 
 * `app.py` — Streamlit application used to run the project.
 * `model.py` — Contains the machine learning model and prediction logic.
-* `wifi_traffic.csv` — Dataset used for analysis and prediction.
+* `wifi_data.csv` — Dataset used for analysis and prediction.
 
 ## Project Workflow
 
